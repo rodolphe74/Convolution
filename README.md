@@ -10,6 +10,9 @@ A threaded kernel convolution implementation in Clojure. Project created with Le
   (finish-him "resources/c-sharpen.png")
 ```
 
+<img src="doc/crop_c.png"> <img src="doc/crop_c_sharpen.png">
+
+
 # Principle
 - [Wiki](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
