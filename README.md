@@ -5,4 +5,5 @@ A threaded kernel convolution implementation in Clojure. Project created with Le
 
 # Librairies
 [ImageZ](https://github.com/mikera/imagez).
+
 [Claypoole](https://github.com/clj-commons/claypoole).
