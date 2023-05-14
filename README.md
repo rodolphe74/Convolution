@@ -10,7 +10,7 @@ A threaded kernel convolution implementation in Clojure. Project created with Le
   (finish-him "resources/c-sharpen.png")
 ```
 
-<img src="doc/crop_c.png"  width="50%" height="50%" > <img src="doc/crop_c_sharpen.png"  width="50%" height="50%">
+<img src="doc/crop_c.png" height="154" > <img src="doc/crop_c_sharpen.png" height="154">
 
 
 # Principle
