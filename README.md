@@ -1,5 +1,5 @@
 # Convolution
-A threaded kernel convolution implementation in Clojure. Project created with Leiningen.
+A threaded kernel convolution implementation in Clojure. Project created with [Leiningen](https://leiningen.org).
 
 <img src="doc/Clojure_logo.png" height="150"> <img src="doc/leiningen.jpg" height="150">
 
