@@ -3,6 +3,12 @@ A threaded kernel convolution implementation in Clojure. Project created with Le
 
 <img src="doc/Clojure_logo.png" height="150"> <img src="doc/leiningen.jpg" height="150">
 
+'''
+  (init "resources/c.png")
+  (time (process-kernel sharp-k sharp-d))
+  (finish-him "resources/c-sharpen.png")
+'''
+
 # Principle
 - [Wiki](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
